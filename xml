@@ -1,0 +1,508 @@
+First attemp xml
+I am aware I need to get a higher resolution to corect my mistakes in my text
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>David Gressgott</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-19">2016-09=23</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-01-01">1905-04-03</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, JULY 13, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement"> 
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3">TUI Ittinufl VAHVT1I, iuboi/bi, omiu	>«w.
+oy. IND, COOPE & Co., Ltd.
+BR.E-WTEIHS,
+D.	BURTON-ON-TRBNT AND ROMFORD.
+PALE ALE 4* DOUBLE STOUT,
+LD.	SPECIALLY BREWED FOR EXPORT.
+A.g-ent8 :
+MESSES. JOHN ROSS & Co.,
+i $18 FOOD for BABIES
+3	actuals
+PREVENTS THK ATTACK OP MOSQUITOES.
+u	yy	^	WII	bnn afi HUM* Ell.
+yyBEETHAifSyAr " (edhess, mv. nimviM. **. >* .
+ify)///* «T 1>«t Has. IV HEPS TIE mil
+JT’WfF/tI JlJLMst SOFT, SIOBTI, AMD WIITI U U
+! "VLt// ^	Miou. tad U DILIOIVPULLT
+CSOUMO ui iepiesiina
+Agnail—MAX F1SCMKR. CAIRO AND ALEXANDRIA.
+aujaw—p. BEETHAM i SON. CHELTENHAM. ENGLAND.
+MMt4S.ll
+CHAMPAGNE
+GEORGE GOULET.
+*v svmtlT. 1PKTITTK1IT.T0
+THE EGYPTIAN GAZETTE. ^
+t	belwe.
+MEXT DOOR TO TURF CLUB, I
+fMIHO.
+GREAT STOCK OFACCOUNTBOOK8. J
+Speciality s	0
+Aooounf Book* made to order. u£>
+ENGLISH NEWSPAFERS & MAGAZINES. £
+----- sot
+Rodgora Outlary.
+7 8-906	1
+PHOTOGRAPHIE REISER j j
+rnuiUDiurniLnuoui t ™
+,R*i.*x A BimB/	| saotf
+SPECIALITY i	j	„
+Childrens Photos. |
+High Class Portraits. | 9
+AL1XLHDBIA , Ota B'.v*u Braa*T. I !■
+CAIRO i	Ononta Ovtswax B*»«- J M
+- -------------------r 1
+WINUoUK HUILL j |K
+Largest lit olu« and most oomiortabl- I Hm
+Hotel In Alexandria. Pacing the BM IlH
+Central ponton. Under IngH.b management I IW
+num	1 |£9
+a ________________
+Royal Insurance Co
+FIRE AJSTD LIFE.
+Limaiei riBB ornoi ib thb wobld.
+h*szldxh a Oo.,
+H4BZLDXN * Os., A»«u.
+a. TITXEBO a CO.. Jt-“ 0m»
+PHGENIX ASSURANCE COMPANY L
+r RaTARI.TGHND 178011
+HAS1LDKN * Oo., A,mU, tlna^ik
+11-8-908____FRXP. OTT A Oo.. ** A*mA, Q»tre_
+
+£ With Milk, upon which It acts as a digestive. £
+| K2EN, ROBINSON & CO., Ltd.. LONDON, |
+Makers of K.TSN’S MUSTARD.
+cc HOMOCEA 3
+“TOUCHES THE SPOT"
+In all hum of cnla, burnt, braise*, ehaiss, aorae, nlesva, open troonde, and similar ilia of tbo
+Horn occa for braitee, bilrs itiogi, iwaltiogi, aoro throat, fao<-aoha ate., gtnlly nib and ootar
+with Hemoo-aon linen
+Homocea is .ntiieptio, southing. and baatiog.
+Homocoa ellaja inall.mtiis, iniuinra to.
+Homooea i* the nrnai wonderful relief and on re for p3*s known
+Homooea Embrocation la for rabble* of in paini of all kinda, tbratnado palna, strains, niff
+ointa rsareigi». eto.
+Hlppaooa doee in the kennel, ■ tabu, and turn, for all animala what Homooea doea ib the
+HooaaboiA	Bold by Druggist, and Cheat,
+Tba wbolaaala trad* snppllsd br i MAX FiaoSXR. Cairo.	mown
+V ^
+I HIS MAJESTY THE KINS.
+REIMS.
+SOLE AOEHT !H EGYPT AMO SUDAN,
+■■ oujijmou iu mo ncu v-ruoD ow I
+ciety, London, for one by the j
+invalided troops and hospitals in >
+Booth Africa, to the House of ?
+T<ord* And Hon a* of Commons.
+THE CROWN PRESERVED COAL COT 1.
+Wortu and Shipping Port*1	)
+PRICE LIST ON APPLICATION. U-H4P4
+H. D. RAWLINGS, LIMITED.
+SODA WATER, LEMONADE, * QINOEB ALE.
+Ax Samoa te Son id Baui Vauat.
+a__,j . t c\ tt "w n n « tin a dt
+Anglo-EgvptianR Cigarette Co.
+MANUFACTURE HIOH-OLABB OIOABETTEB ONLY.
+___ Latest Award: Grand Prtx St. Louis 1904.
+__ Latest Award: Grand Prtx St. Louis 1904.
+3 A THEODOKE VAFIADIS&Co.
+laeb,	' maNuFACTURERS OF
+”	9 /L'm. HIGH CLASS L
+i-f	CIGARETTES=
+i ihe	Factory, Cairo ( »C|r>-pt.. Eaa
+mm	branohks:	™
+--	Bant bap.	SO Bsplaiad* Read.	I	Ranflaan,	T1	Marahanl Btraat.	r*.
+Calaatta,	4 Dalhoula Bqaaia.	|	Leaden,	II	Bastaghall Btrsst, At	wW
+“’j	Affonta in All tbo prlaelpol Oltlaa In tbo World._'» «-*<	^
+g	aim
+2 I f «•—'	CREAM	J.”
+.	■	I’cV 11 b'OT a Makeihlft NOR a SobsUtma bat	a..!
+MM	PURE MoomamPa.|Ure CREAM. Guaranteed
+If1 UVJVJLLLO m frM (rom P^^ pQ| np ln St»rtli*ed sue
+! Ml Of I DP Dir'H ■ Tine. Keepe *ood IN ANY CLIMATE »oa	ltJiel
+MB r U rvJCr rtlV^n ■ MANY MONTHS. If unobtainable locally, a	wou
+5	m doren | Ib. tine will be lent poet free, with name	whit
+m	1 M Of near«at a*ent. on receipt of 8/-Poatal Order by	beat
+"*	%	GOLDEN	M the proprietor*-	^
+H6	^ BUTTERFLY M FUSSELL A CO., LTD., LONDON, ENd.
+BRAND,	LOCAL A0KNT3 WAIfTrp.	^
+^	^————y	trial
+NICOLA 6.SABBAG
+ALEXANDRIA,
+a, Rut dt la Oare du Cairf
+Tolophone No. 009.
+RflFHMF % &NDERER.
+THE	>]
+ANGLO-EGYPTIAN BANK,
+-	LXMITBD.	8U1
+--	tl
+-----	mo i
+LONDON, PAH1B ALEXANDRIA, CAIRO Alox
+MALTA GIBRALTAR, T ANT AH,	P.T.
+AND POST bAID.	monl
+oo an
+(£3.:
+Halxaorllxxl Capital AC l.Soo.ooo	(£l.|
+Paid up	AC	600,000
+ItoaerreFnnd .... .. AC 600,000	N3,
+-----	or
+Tbe Anglo-Epptlan Ba^^LlmlUd, ADVK
+00 the moetT^armbiri^dRioa 1.
+Current aoeoanw opened with oommareiol boneee Or D
+and prirata indiridnale In sonformily with the Brer
+Fixed dffoaiM for one year certain leaeini at 8
+par aanA gar annua. Deyo.it! at InMral tor ahortar
+yeriode are alao raoairad at tataa to ba agraad upon, gijgor
+Leteare of Oredit for the naa of trarallare art
+iaanad yayaUa in aU yarta of tba World.
+Ayyrorad bill* diaoonntad.	Chf
+BtUa, doonmanbtry inraiaaa,	aW,	aollaaMd.	And
+Diefte and tdyeyhii kanifon iaeoad yay Londoi
+abU all orar lb# World.	______
+Pore**n txahan*e bongbt and eold.
+. Adranee* made ayon eyyrored eeooritiee and	.
+i. upon aoMon, aonon aaad, nyu and other m.r ™
+ebandiea.	tat
+The ymehaee and eale of etoeka and afaarae
+on tba teeAw thoak Kxehanye ; and on tba AT TK
+'■ local and Oontbantat Bonreee, nndartakan.
+Ooaanen can denoAl thor raJoablee, bonds,
+a*a, for aafa aoatody in tba	BeoYa	ftra-yrool '
+.wony rootni, and tba Bank will aDand to tbe
+eoOeanon of tba aonaon* and dawn bond* eo UI_S
+deyoetled aa tbaylJdOA
+_	Annnibee, yenatone, diri'dende, ate., eolieeied
+■O An further yanienlare and information ean be -----
+| obtained on eyyiimben,
+I Tba offlonrn and olarka or tba Bank Tin
+, are pladgad to aaorany aa to tba Iran- I II
+j aaotlona ot ooatomara.	»9 ■	_
+|	Prl<
+,	oaiweet
+3SCEIPTI0NS—Alexandria, Cairo, and
+38 Interior of Egypt (including delivery in
+Jaxandria or poatago to aubaoribar'a addrwa)
+'.T. 331J par annum, P.T. 116 for aix .
+lontha, P.T. BOfortbraamontha. Toother
+ountriea in the Poatal Union P.T. 378 0	,n,
+£3.16a) par annum. Six month* P.T. 186*
+£1.8a), throe montha P.T. 93 (£0.1 9a)
+13.—Subaoriptiona ootnmanoa from the lat liaKlit]
+or 16lh of any month.
+•till 1
+VKBTISBMBNT8.—P.T. 4 per line. Mi- would I
+imam charge P.T. SO. Birtha, Marriagea, for Ind
+r Do*tbs, not exceeding three line*, P.T. 30. heraelf.
+Ivery additional lino P.T. 10. Notioea in indulgt
+ewa oolumn P.T. 30 per line. Contracta ouiy „
+ntered into for atanding adrartiaemeatA the wo
+BSGRIPTIUN3 and ADVERTISEMENTS nz00>
+re due in advaooe. P.O. Order* and oour*e
+Ihequee to be made payable to the Bditor ***“'
+jid Manager, Rowland Snelling, Alexandria. Whi
+tdon Offioes : 86, New Broadetreet. B.U. do no
+though
+the nnn
+■ -xomuH QAXWTT*- ta pkxjctad on "by th<
+if that |
+■uia KiNuraonmiD ard lumiD weaker
+TXX LONDON PAPID MII.U Oe_ LZKZTKD. l„rri, pg
+if ornci t xT, cannon muT, xcj • "bat ia
+provinot
+pronnoe
+D X A T H .	'
+irr. - Oa tbs tr« April, ins. a IT, Vie Nteete the pro
+itavelll. Trieste, efler e talrf llliwwc Nery Coterid*., amOUg t
+■1 wtt. <* uuiam o.iiwr,.	thatch.
+mAOAMHvl	| 1 q
+Prloo
+1	11
+'lho h
+||Min^^^ls5n33lI^^2^QPJ| ot the rj
+whether |
+Finland,
+illl	I be the ro
+8\i|MHP9wiAF>y||y^ the
+---- — - ■ ------ in diatrit
+e Egyptian Gazette FE"
+IsatLk MU, aeweyeaer, XeUMbkei la I MO.	aelroa ia
+Editor* Manager: R. 8aiu.ua ' ^‘e”ch
+>01 Ono Plaetre Tariff. UMofpi
+■	mutineer
+ed.areaa
+_________________________________ mutineer*.
+ed.areaafl
+TUESDAY,	APRIL	d,	1906.	oaaaedby
+heart the.
+"	bia ia thi
+RUSSIAN	UNREST.	in
+----------------------- oueawa in
+telograma daily fumiah ua with proof* tiem decree
+extraordinary unroat in Russia, and believing tl
+ir the *oene be in Russia itaelf or Poland, ment wooli
+1, or the Caucasus the tale of disorder admitted t
+loontent is alwaya the aasm, whether it who are |
+rebellion at Yalta a few daya ago, or Zemstvos b
+erious conflict” at Wanaw announced loaat of the
+, It is olaar that the rtrugjl* in the Par iwolutioni
+TT..____ Tt____T-1	____
+l Homme, Femme, Enfant
+en proie k la ftevre s'affaiblisscnt, l'enfant particu
+licrement de pitoyable fafon. II taut rcmcdicr a
+F	cela. Donnez au maladc de
+’	MVrmm	l'Cmulsion scott
+■B	,a faiblcssc s’dvanouira promptement, sdrement
+Jf n	et vous vous direz que
+-	1 /[w	LlMULSlON SCOTT
+f <fe|gpw cst bien le grand remede pour toutes faiblesses
+•» ySojphpPP^ dont souflre le corps. Elle n'a pas d'^gale tout
+Muqw daTabrique. te soleil, tant elk gucrit si parfaitement; die
+temble ddvorer la maladie.
+En veote cbez tons let pharn
+Sunlight
+There is no rubbing and
+scrubbing with
+Sunlight Soap.
+One bar of it, when used
+according to directions, will
+do more than two bars of
+■ common *oap.
+Soap
+—	J KuasD, no
+„■	1---------------------------------overturuini
+jexpanded 1
+11 1	... 1 =1 nearly thn
+fiat sup
+it, though it is not yet over, baa developed [ 0ut—whiol
+rest in Russia of a clangorous kind, and all : weakness a
+1 civilised world ia watching the direction the shock 1
+ich the danger may take with anticipations ,iuia reoog
+once eager and perplexed. There are so Lo be be*
+ny conditions to the problem that it seem* | yd—where
+3oat insoluble by human intelligence, and ' number of
+; oo ita eolation the immediate future will j think, that
+lost certainly depen l. It ia not only the either wea
+are of Asia which ia at stake, but muob of the oontrai
+1 future of Europe. We are not talking <.r' Liberals t
+1 “yellow peril," wit ch may be real or ima ' ei franebi,*
+ary, but of tbs ehvngee within Bunipc preutiga a*
+slf which any ralial change in Rum a ibetu augg>
+nld involve. A piraiyiia ofthu great Empire Lo aimed
+ich for more than a century has hung like a were but a
+ivy cloud on tbe Eastern frontiers of tbo ,|;B ^ 0
+lly civilised aeuiion of the w>irid would, |ow devils'
+example, leave Germany miatresi o Kutaian m
+1 Continent I: might shatter the Au«- m4„t with
+m Empire to piems, for her Slav majority 0f gyniua,
+aid no longer have to fear bein^buried iu relieved fi
+1 Russian morasA” It would intensify in a _*t press
+h degree the quarrel always smouldering iton#—mi|
+ween the Ottomwa and the remnant of outjot fa |
+ir Christian aubjeett,—a result of which say for C01
+rope already peroeivea signs in the new Lig heigh
+ogaooo which tho Divan ia displaying in the (Jnloas Re
+kanA The Turkiah Ministers have already form of fad
+minted to high 00 m man da in Macedonia tj,e
+oera whose one idea of order ia to keep dowu Ternmeot
+alcitract subjeota by massacres so wide aa 0j the dyna
+mggest an intention of extirpation. Prenob Constituuc
+iaty would be ahakeu to ita heart .by a new Army, and
+nlity to invasion, and with it a froth pro- tary preati,
+rity to panic. Even Great Britain, though ooReotiocu
+1 “ euoompassed by her inviolate tea, " anuugh of
+aid feel the influence of the groat change, migbt folic
+India would be as safe from iuvaaion as Low many
+aelC and being safe, would be apt to 0f the Tort
+iulge in dreams ol large ambition. It is not foliosrod tt
+y natural, therefore, but inevitable, that queBl 0ft
+t world, though it ia getting weary of the Napoleon,
+r considered aa a drama, should watch the u well aa
+iroe of ovonts in Russia with fascinated intention t
+nsiaerea as a aroma, auuuta waicu uia u weU as oy I
+of ovouts in Russia with fascinated intention to “
+ess-	relieve rothei
+ile, however, wo perceive this clearly, we Exchequer by
+>t understand so well why so many in Russia mtg
+itful men believe that the progress of fur a short pet
+treat will be fatal to the autocracy, or of the Freno
+bey are so possessed with the notion that alao, of that 0
+; great cataclysm occurs, Russia will be used to be tht
+r for ita ooourrenoe. Aa yet all the symp is oertain yet,
+mint rather to a vast jan/utrie than to politioal folly
+s commonly known aa a revolution. Prom that tho diaoi
+ioe after proviuoo of Russia come up milleuium of;
+1 which show that the suspicion of may be, as th
+jroprietary class so lung smouldering musing themi
+{the peasantry is brealring into flame ;
+chAtoau after Chilean is menaoed, that 1	■
+itrict after distriot the landlords are
+»g their familiea, or flying themselves, ^
+oteotion to tho great oitiee The plunder [| tm um* .
+ich the Reserriala so often bo take them	bcok- ®«*i
+is as much an expression of hatred ti> aonkTatii
+ch as of desire for a final revel, and ia
+ipanied in many instanoea by a deetruo-	^
+f property which can in no way bonefit tho	/Syi
+leers. The peasantry, it must be remember-
+6 suffering severe eoonomio distrees, partly	I
+d by increased taxation. They cherish at
+the Asiatio idea that "whoee is the sweat, ___________
+1 the aoil”; they thought themselves
+sd in the ultimate result of the Emanoipa-	_
+lecree; and they have soma ground for “
+ing that if they rise, the Central Govern- "PLIN
+would show itaelf on their aide. It is
+tod by the great landlords themselves,
+are promoting the movement of the
+tvos towards greater liberty, that 00a at v.	^
+of their motive* is dread of an agrarian ___________
+ition aa mafuiaaiy a* that of 1789-98 in
+c 11c gucrit si parfaitement; ctle
+maciens et drogulstes.
+| France. Wa do not imagine that the Govern-
+Intent would actively aid that revoluLon,
+though it mutt be remembered that nhol*
+claaae* of the smaller proprietor* were turned
+at a stroke by the decree of Emancipation ,
+| but it ia not impossible they would passively
+watch a revolt that would then and in a
+Russia composed of en absolute Tsar and
+millions of small freeholders. The middle
+clas’O* in Roaaia have no physical furoe with
+which to rerist either the Army or the
+peasants- There is 00 proof of their control
+over the opinion of th* maaaet, and a terrible
+and suooeasful jacqturir is at least a con-
+ceivable alternative to a political revolution.
+If Louis XVI. had been a mao with th* groat
+qualities of the earlier Bourbons, tba French
+Revolution also might have ended in that
+way. Tbe Army hated the aristocratic cut* ’
+much more than it hated the Throne, anti th*
+emancipated peasantry would soon have
+famished the Monarch, a* it has repeatedly
+done sinoe that time, jnth the force to bold
+down Paris Besides, where ia no Pans in
+Russia, no city which by itself ia capable of
+overturning a dynasty that baa ruled and hai
+Ja, no city which by iuelf is capable of '
+arning a dynasty that has ruled and hoi
+uded Russia almost without a paute fur
+y three hundred yean,
+it supposing that a real revolution breaks
+-which is possible, of course, a* a result of
+ness and indecision at the centre, and of
+hock of angry surprise with which Bus-
+recognise the fact that their Government
+>e beaten in war by a foo they bad despot-
+whore ia tbe ground fur thinking, as a
+ber of grave pereous without doubt Mere lly
+c, that an emancipated Runts would be
+j weak or unambitious I Sbe might, on
+ontrary, prove terribly stroug. Russian
+-ala obviously believe that the newly
+nebbed people would be jealous of their
+igo even in the Par East, and many of
+1 sugguat that the war with Japou would
+imed ou with a now energy H the people
+but enfranchised. Eveu if that were not
+aae, owing to a certain horror ot the "yel-
+tevila" which has sprang up among lb*
+ian masses, Russia, buinug with excite-
+: with all ambitious set free and ber men
+tnius, of whom she has many, at hut
+ved from the heavy weight above them—
+present they are tike lrogs under* flag-
+>—might hud in oonqoesc the readiest
+it for her energies, and by a grand war,
+or Constantinople, might rouse to cruaad-
+heigbt the enthusiasm of ber masse*
+is Russia actually broke up into some
+of federal State, which is hardly within
+ange of politioal possibilities, any Go-
+neat of Russia, whatever tint tumo
+i) dynasty, or whatever the form of ita '
+titution, must desire to reorganise th*
+f, and to obtain something of that mill-
+prestige without which armies are only
+stiooa of men in uuifurm. Men talk glibly
+ghof the grand huauoial crash which
+it follow any revolution in Russia ; but
+many millions were there in tbe treasury
+e Terrorists, or ol the Directory which
+wed them, when they oommenoed the con-
+t of the States around Prance, and when
+jleoo, oppressed by tbe national poverty
+til as by his own ambition, declared bis
+ition to “make war support war," and to
+re rather than exhaust the nitiurv
+tequer by hi* campaigns 1 Evan an»-J
+ansia might not destroy ber strength excel
+short period. Thera is muoh in the Slsv
+ho Frenoh nervous exoitabitity ; much,
+of that craving lor external repute which
+I to be the Freuch mot.ve-power. Nothing
+Main yet, and political prophecy is often
+deal folly ; but the able persona who fancy
+the disorder in Russia tends towanli*
+luium of peace and prosperity in Europe
+be, as they often have been before, be-
+-
+fjZ~*a** M3 i »entu 1* **»>
+•^Tyamg, br 0w HsUlWr* OrtM. »o^a
+—
+'
+a of Oomo - Como.
+JNIU8-QRAND HOTEL
+rrrJssTS
+ilLEAXHUJ. llUUtl IWWW w w.,
+*30*7	AT.MXAWPMA * OAIKO:	________
+THE PEflfECriON Of OJALlfY 4110 UUil ^	___^
+In Sterling Silver,
+I,‘Welbeok'’*iuvarPi*teiGjoda	^z,**0*00*
+FrovUiona, Wines, Oigeri,
+Orookery, SraBhee,	“W JI	m
+*o., So.	-------- “
+^ “ECONOMICAL STORES”
+'J	CAIRO AND ALEXANDRIA.
+PRICE LIST ON A.PPL.IOA.TION. 16-11494 </div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
